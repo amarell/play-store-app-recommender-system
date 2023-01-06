@@ -20,4 +20,4 @@ In this project, you will find implementations of both strategies.
 
 The dataset used by the recommender system can be found [here](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps). It contains metadata about approximately 2.3 million applications on Google Store.
 
-> Disclaimer: In this dataset, I'm only using a subset of the whole data.
+> Disclaimer: In this project, I'm only using a subset of the whole dataset.
