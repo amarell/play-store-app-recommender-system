@@ -1,4 +1,4 @@
-# Content based and collaborative filtering recommender systems for Google Play Applications
+# Content based and collaborative filtering recommender systems for Google Play applications
 
 A recommender system is simply a tool that implements machine learning algorithms in order to give users accurate recommendations and help them find items that they will be interested in. In this case, the recommender system recommends applications that the user might find fun, useful or helpful.
 
